@@ -1,0 +1,16 @@
+@import "../sass/bootstrap/bootstrap.scss";
+
+
+.avatar {
+    width: 35px;
+    height: 35px;
+}
+
+.hero{
+    background-color: #7550fe;
+}
+
+.cards-container{
+    display: flex;
+    justify-content: space-evenly;
+}
